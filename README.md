@@ -9,7 +9,10 @@
 
 ![YehyeokBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehyeokBang&show_icons=true&theme=nord)
 
-#### Contact :raised_hands:
+#### Welcome My Blog :raised_hands:
+<li><a href="https://velog.io/@hyeok_1212">Yehyeok's blog</a></li>
+
+#### Contact :telephone_receiver:
 <li><a href="qkddpgur318@gmail.com">qkddpgur318@gmail.com</a></li>
 <!--
 **YehyeokBang/YehyeokBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

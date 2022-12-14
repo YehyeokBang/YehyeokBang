@@ -1,5 +1,5 @@
 ## Yehyeok Bang
- hi :wave:
+ hi I'm Yehyeok :wave:
  
 <h3>I'm studying :book:</h3>
 <div style="display:inline">

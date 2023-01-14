@@ -16,9 +16,15 @@
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aksk333)](https://solved.ac/aksk333)
 
-<h3>GitHub stats :seedling:</h3>
+<!-- <h3>GitHub stats :seedling:</h3>
 
 ![YehyeokBang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YehyeokBang&show_icons=true&theme=gruvbox)
+-->
+<h3>Most Used Languages 🥇</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehyeokBang&langs_count=5&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+
+
 
 <!--
 **YehyeokBang/YehyeokBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

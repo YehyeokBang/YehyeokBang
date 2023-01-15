@@ -22,7 +22,7 @@
 -->
 <h3>Most Used Languages 🥇</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehyeokBang&langs_count=5&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehyeokBang&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
 
 

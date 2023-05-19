@@ -30,7 +30,7 @@ jobs:
         pip install requests
     - name: Run Update Python Script
       run: |
-        python util/updateVelog.py
+        python updateVelog.py
     - name: Verify Changes in README.md
       run: |
         cat README.md

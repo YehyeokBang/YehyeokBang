@@ -61,9 +61,7 @@ def make_readme(latest_blogs):
 
 if __name__ == "__main__":
     readme = make_readme(make_latest_blog(CONST_URL, CONST_COUNT))
-    parent_dir = os.path.dirname(os.getcwd())
-    readme_path = os.path.join(parent_dir, "README.md")
-    with open(readme_path, 'w', encoding='utf-8') as f:
+    with open("./README.md", 'w', encoding='utf-8') as f:
         f.write(readme)
 
 

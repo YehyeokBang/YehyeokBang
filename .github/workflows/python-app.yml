@@ -33,7 +33,7 @@ jobs:
         python util/updateVelog.py
     - name: Run Update README.md File
       run: |
-        gut add .
+        git add .
         git diff
         git config --local user.email "qkddpgur318@gmail.com"
         git config --local user.name "YehyeokBang"

@@ -31,6 +31,9 @@ jobs:
     - name: Run Update Python Script
       run: |
         python util/updateVelog.py
+    - name: Verify Changes in README.md
+      run: |
+        cat README.md
     - name: Run Update README.md File
       run: |
         git add .

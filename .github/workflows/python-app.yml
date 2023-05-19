@@ -7,7 +7,6 @@ on:
   push:
     branches: ["main"]
   schedule:
-    # 매일 00시 (한국 시간 9시)에 실행됩니다.
     - cron: "0 0 * * *"
 
 permissions:
@@ -31,9 +30,11 @@ jobs:
         run: |
           python updateREADME.py
       - name: Verify Changes in README.md
+        id: check_diff
         run: |
-          cat README.md
+          git diff --exit-code -- README.md
       - name: Run Update README.md File
+        if: steps.check_diff.outputs.returncode != '0'
         run: |
           git add -f README.md
           git diff

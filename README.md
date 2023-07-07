@@ -12,9 +12,9 @@
 <a href="https://velog.io/@hyeok_1212" target="_blank"><img src="https://img.shields.io/badge/velog-99FFCC?style=for-the-badge&logo=VELOG&logoColor=003300"/></a>
 <a href="mailto:qkddpgur318@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a>
 
-<h3>Algorithm ✏️</h3>
+<!--<h3>Algorithm ✏️</h3>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aksk333)](https://solved.ac/aksk333)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aksk333)](https://solved.ac/aksk333) -->
 
 <!-- <h3>GitHub stats :seedling:</h3>
 

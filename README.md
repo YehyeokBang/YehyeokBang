@@ -24,6 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehyeokBang&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)  
 
-<h3>My Blogs 😄</h3>
+<h3>My Posts 😄</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyeok_1212)](https://velog.io/@hyeok_1212) 

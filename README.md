@@ -1,6 +1,6 @@
 ## Yehyeok Bang
  Hi I'm Yehyeok 👋</br>
- Growing Backend Developer🌱
+ Growing Backend Developer 🌱
  
 <h3>I'm studying 📖</h3>
 <div style="display:inline">

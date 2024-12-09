@@ -38,4 +38,4 @@
 ### My Posts
 
 <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyeok_1212)](https://velog.io/@hyeok_1212)-->
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hyeok_1212?theme=dark&posts=3)
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hyeok_1212?theme=dark&posts=3)](https://velog.io/@hyeok_1212)
